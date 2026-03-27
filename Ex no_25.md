@@ -16,8 +16,8 @@ To write a C program to check whether a given character is a vowel or consonant 
 ```
 /*
 C program to check whether a given character is a vowel or consonant using pointer
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: ARAVINDHA K A P
+RegisterNumber:  212222063001
 */
 #include <stdio.h>
 int main() {
